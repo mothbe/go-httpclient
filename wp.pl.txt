@@ -1,0 +1,2 @@
+/wp-test 301
+/wp-next 301
